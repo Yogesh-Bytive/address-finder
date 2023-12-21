@@ -1,0 +1,24 @@
+{
+  "name": "india-pincode-lookup",
+  "version": "1.0.3",
+  "description": "node module details",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "pincode",
+    "pincodes",
+    "india",
+    "postalcode",
+    "india pincode",
+    "india pincodes",
+    "indian pincode",
+    "indian pincodes"
+  ],
+  "author": "yogesh mishra"
+}
